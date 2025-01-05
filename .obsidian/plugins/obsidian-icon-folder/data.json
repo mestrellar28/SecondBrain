@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiUser",
+      "SiAdobe",
+      "RiJavaLine",
+      "FasMountainCity",
+      "⛰",
+      "TiPhoto",
+      "BoBxBox",
+      "LiLanguages",
+      "FasDesktop",
+      "FasOilWell"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [
+      {
+        "rule": ".md",
+        "icon": "LiFileText",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "^(0|1)",
+        "icon": "FiFolder",
+        "for": "folders",
+        "order": 1,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 6,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "lucideIconPackType": "native"
+  },
+  "00 - Work": "OcDeviceDesktop16",
+  "01 - Ideas": "OcLightBulb16",
+  "02 - Resources": "LiBookMarked",
+  "03 - Knowledge": "LiBrain",
+  "04 - Tools": "TiTools",
+  "00 - Work/Naturgy": "FasOilWell",
+  "00 - Work/Seidor": "FasDesktop",
+  "00 - Work/Palladium": "LiHotel",
+  "06 - Languages": "LiLanguages",
+  "05 - Miscelaneous": "BoBxBox",
+  "00 - Work/Naturgy/Media": "TiPhoto",
+  "00 - Work/VisitAndorra": "FasMountainCity",
+  "00 - Work/AEM": "SiAdobe",
+  "07 - Personal": "LiUser"
+}

@@ -1,0 +1,13 @@
+{
+  "accentColor": "#8a14ff",
+  "translucency": true,
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Iterative Rainbow Folder Backgrounds",
+    "Iterative Rainbow Folder Icons",
+    "Iterative Rainbow Folder Titles"
+  ],
+  "theme": "obsidian"
+}

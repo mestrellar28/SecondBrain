@@ -1,0 +1,6 @@
+- Manuel Estrella la llamada al servlet de headerLogin se está haciendo 3 veces cada vez que carga la página, hay que ver que pasa y que sea solo una llamada
+- Alberto Elvira hay que añadir una regla de caché que sea todo el .html se cachea 86400s
+- Alberto Elvira hay que revisar la URL de callback que está montando el servicio de login porque al volver aterrizamos con /content/palladium-pro/... en lugar de la corta, entiendo que donde se monte la request de azure no se esta pillando la URL con los mappings bien
+- Manuel Estrella por front se están haciendo 2 llamadas al servlet de profile picture una sin parametros y otro con &** o algo asi
+- Manuel Estrella en el componente de mis datos (formulario de modificación de datos) hay que hacer algo para que no pegue ese flash hasta que carguen los json, quizá dejar todos los campos vacios y solo rellenar cuando acabe la carga (más adelante si se pudiera nos han pedido meter el tipico spin de "cargando")
+- Esteban Echarri me han enseñado desde rewards que si que hay una URL para hacer logout de azure, necesitaríamos que nos pases la URL equivalente que podemos usar nosotros y Manuel Estrella seguramente además de llamar a nuestro servlet de "logout" en el click tocará añadir esa llamada al logout de azure cuando nos pase la URL Esteban Echarri
