@@ -174,22 +174,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "70345a5496cf25e0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,11 +195,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32c30335aca8f4d2",
+  "active": "251fd5262d27e607",
   "lastOpenFiles": [
+    "10 - Folder/FOLDER.md",
+    "09 - Folder/FOLDER.md",
+    "08 - Folder/FOLDER.md",
+    "06 - Languages/LANGUAGES.md",
+    "04 - Tools/Tools.md",
+    "03 - Knowledge/JS/JS.md",
+    "03 - Knowledge/JS",
+    "03 - Knowledge/CSS/CSS.md",
+    "03 - Knowledge/CSS",
+    "09 - Folder",
+    "08 - Folder",
+    "06 - Languages",
+    "04 - Tools",
+    "03 - Knowledge",
     "00 - Work/VisitAndorra/VisitAndorra - Important Links.md",
     "00 - Work/VisitAndorra/Visit Andorra (Tasks Effort)- 2024.md",
     "00 - Work/VisitAndorra/Dynamic Media (Responsive Image Crop).md",
@@ -232,29 +236,15 @@
     "Dynammic Media.md",
     "00 - Work/AEM/How to Install Java 11.md",
     "00 - Work/AEM/css.png",
-    "00 - Work/AEM/AEM Compose.md",
-    "00 - Work/AEM/AEM Improve Performance.md",
     "00 - Work/AEM",
-    "00 - Work/AEM/AEM Curl Commands.md",
-    "00 - Work/VisitAndorra/To Fix.md",
     "00 - Work/VisitAndorra/FrontEnd/Media",
     "00 - Work/VisitAndorra/FrontEnd",
-    "00 - Work/Naturgy/Tasks.md",
-    "00 - Work/AEM/AEM Things.md",
-    "00 - Work/Seidor/Seidor Vacaciones.md",
     "00 - Work/AEM/css-and-js.png",
     "00 - Work/AEM/js-defer.png",
-    "03 - Knowledge/JS",
-    "03 - Knowledge/CSS",
-    "00 - Work/VisitAndorra",
-    "00 - Work/Naturgy/Media",
-    "00 - Work/PalladiumCloud",
     "ranking type.jpeg",
     "product module.jpeg",
     "SCR-20240604-jcdw.png",
     "SCR-20240604-jacs.png",
-    "SCR-20240604-izxq.png",
-    "00 - Work/Naturgy",
-    "00 - Work/Seidor"
+    "SCR-20240604-izxq.png"
   ]
 }
