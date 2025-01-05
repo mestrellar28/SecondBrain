@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "How To Work With Multiple Github Accounts on a single Machine"
             }
+          },
+          {
+            "id": "32c30335aca8f4d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +184,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -192,11 +205,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6637c4990dd216",
+  "active": "32c30335aca8f4d2",
   "lastOpenFiles": [
     "00 - Work/VisitAndorra/VisitAndorra - Important Links.md",
     "00 - Work/VisitAndorra/Visit Andorra (Tasks Effort)- 2024.md",
