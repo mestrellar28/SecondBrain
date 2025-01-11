@@ -50,6 +50,13 @@
 | , s        | Sort by size                                             |
 | , S        | Sort by size (reverse)                                   |
 | , r        | Sort randomly                                            |
+| g, h       | Go home                                                  |
+| g, c       | Goto ~/.config                                           |
+| g, d       | Goto ~/Downloads                                         |
+| g, space   | Jump interactively                                       |
+| t          | New tab                                                  |
+| }          | Next tab                                                 |
+| {          | Previous tab                                             |
 
 ---
 ## **Plugins**
