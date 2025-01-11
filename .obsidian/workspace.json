@@ -13,28 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To Work With Multiple Github Accounts on a single Machine.md",
+                "file": "04 - Tools/Yazi - Blazing Fast Terminal File Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How To Work With Multiple Github Accounts on a single Machine"
+              "title": "Yazi - Blazing Fast Terminal File Manager"
             }
           },
           {
-            "id": "32c30335aca8f4d2",
+            "id": "1fdc53c6eb2cca11",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "04 - Tools/Tmux - Terminal Multiplexer.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Tmux - Terminal Multiplexer"
+            }
+          },
+          {
+            "id": "7dc0382c4945044c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Tools"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "right": {
     "id": "49446ca956e2d1c4",
@@ -152,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To Work With Multiple Github Accounts on a single Machine.md"
+                "file": "04 - Tools/Yazi - Blazing Fast Terminal File Manager.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of How To Work With Multiple Github Accounts on a single Machine"
+              "title": "Outline of Yazi - Blazing Fast Terminal File Manager"
             }
           },
           {
@@ -174,8 +190,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -198,13 +214,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "251fd5262d27e607",
+  "active": "9b6637c4990dd216",
   "lastOpenFiles": [
+    "04 - Tools/Tmux - Terminal Multiplexer.md",
+    "My Tools.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "04 - Tools/Yazi - Blazing Fast Terminal File Manager.md",
+    "00 - Work/VisitAndorra/VisitAndorra - Important Links.md",
+    "00 - Work/VisitAndorra/Andorra.md",
+    "00 - Work/Seidor/Credenciales Seidor.md",
+    "How To Work With Multiple Github Accounts on a single Machine.md",
     "10 - Folder/FOLDER.md",
     "09 - Folder/FOLDER.md",
     "08 - Folder/FOLDER.md",
     "06 - Languages/LANGUAGES.md",
-    "04 - Tools/Tools.md",
     "03 - Knowledge/JS/JS.md",
     "03 - Knowledge/JS",
     "03 - Knowledge/CSS/CSS.md",
@@ -214,14 +238,11 @@
     "06 - Languages",
     "04 - Tools",
     "03 - Knowledge",
-    "00 - Work/VisitAndorra/VisitAndorra - Important Links.md",
     "00 - Work/VisitAndorra/Visit Andorra (Tasks Effort)- 2024.md",
     "00 - Work/VisitAndorra/Dynamic Media (Responsive Image Crop).md",
-    "00 - Work/VisitAndorra/Andorra.md",
     "00 - Work/VisitAndorra/FrontEnd/FrontEnd - Guidelines.md",
     "00 - Work/VisitAndorra/FrontEnd/FrontEnd - Workflow.md",
     "Untitled.md",
-    "How To Work With Multiple Github Accounts on a single Machine.md",
     "Untitled 1.md",
     "Pasted image 20241217172531.png",
     "X.md",
@@ -229,12 +250,7 @@
     "Untitled 5.md",
     "00 - Work/AEM/Untitled.md",
     "02 - Resources/Prettier.md",
-    "00 - Work/Seidor/Credenciales Seidor.md",
-    "00 - Work/AEM/Load Clientlibs.md",
-    "Palladium PRO (Incidencias).md",
     "00 - Work/AEM/js-async.png",
-    "Dynammic Media.md",
-    "00 - Work/AEM/How to Install Java 11.md",
     "00 - Work/AEM/css.png",
     "00 - Work/AEM",
     "00 - Work/VisitAndorra/FrontEnd/Media",
