@@ -54,9 +54,10 @@
 | g, c       | Goto ~/.config                                           |
 | g, d       | Goto ~/Downloads                                         |
 | g, space   | Jump interactively                                       |
-| t          | New tab                                                  |
-| }          | Next tab                                                 |
-| {          | Previous tab                                             |
+| t          | Create a new tab with CWD                                |
+| ]          | Next tab                                                 |
+| [          | Previous tab                                             |
+| Ctrl + c   | Close current tab                                        |
 
 ---
 ## **Plugins**
